@@ -1,0 +1,506 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="正点游戏游戏拥有菲律宾政府颁发的PAGCOR（Philippine Amusesment and Gaming Corporation）博彩牌照，并且通过了GLI（Gaming Laboratories International）国际权威认证。
+    正点游戏的主集团拥有10年行业背景，旗下拥有独立运营的支付、云计算、客服与电话销售等行业基础服务公司。集团与瑞士联邦计量局认证的IDQ（ID Quantique）合作研发出行业首家基于光量子物理的游戏开奖模式，实现公正的游戏模式。与行业多家知
+    名品牌于金融、技术、投资等多领域保持长期战略合作。正点是富有社会责任感的企业，常年与大陆、菲律宾当地政府保持友好合作。帮助各地区提升在环境、教育、儿童保护等领域的工作成效， 秉承“行有道、誉天下”之理念。">
+    <meta name="keywords" content="正点游戏|正点分分彩|重庆时时彩|新疆时时彩|正点娱乐" />
+    <title>正点游戏</title>
+    <link rel="stylesheet" href="css/bgimg.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/skin1.css" id="css1" />
+</head>
+
+<body>
+
+
+    <!--顶部导航-->
+    <div class="top-nav deep_color">
+         <div class="container">
+            <div class="top-nav-right">
+                <p>
+                    <a href="#" class="user"><i class="icon-id icon-id1"></i>逢赌必赢2016</a>
+                    <span>
+                        <span class="top-balance">
+                            余额
+                            <span class="top-balance-show">
+                                <span>¥</span>
+                                <span class="blod">120000</span>
+                                <a href="#">
+                                    <span class="icon-refresh"></span>
+                                </a>
+                            </span>
+                            <span class="top-balance-hide">已隐藏</span>
+                        </span>
+                         <a href="#" class="hide">隐藏</a>
+                    </span>
+                    <span class="top-link">
+                        <a href="views/userCenter/userManagement/mail.html" target="mainFrame"><i class="icon-email icon-email1"></i>信息<span class="info_num">99</span></a>
+                        <a href="views/userCenter/funds_management/recharge.html" target="mainFrame">充值</a>
+                        <a href="views/userCenter/funds_management/withdraw.html" target="mainFrame">提现</a>
+                        <a href="views/userCenter/funds_management/withdraw-limit.html" target="mainFrame">额度转换</a>
+                        <a href="#" class="out">退出</a>
+                    </span>
+                </p>
+                <div class="top-nav-left">
+                    <ul>
+                        <li class="games">
+                            <a target="mainFrame" href="javascript:;">彩票游戏<i></i></a>
+                            <div class="left-item">
+                                <div class="item-arr-up">
+                                    <img src="images/common_img/ups.png"></div>
+                                <div class="game-kind">
+                                    <div class="kind-left"><i class="icon1"></i>时时彩</div>
+                                    <div class="kind-right">
+                                        <a target="mainFrame" href="javascript:;">重庆时时彩<span class="icon-hzn icon-hot"></span></a>
+                                        <a target="mainFrame" href="javascript:;">黑龙江时时彩</a>
+                                        <a target="mainFrame" href="javascript:;">新疆时时彩<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">天津时时彩<span class="icon-hzn icon-hot"></span></a>
+                                        <a target="mainFrame" href="javascript:;">云南时时彩<span
+                                                    class="icon-hzn icon-hot"></span></a>
+                                        <a target="mainFrame" href="javascript:;">腾讯分分彩<span class="icon-hzn icon-hot"></span></a>
+                                    </div>
+                                </div>
+                                <div class="game-kind gray">
+                                    <div class="kind-left"><i class="icon2"></i>11选5</div>
+                                    <div class="kind-right">
+                                        <a target="mainFrame" href="javascript:;">山东11选5</a>
+                                        <a target="mainFrame" href="javascript:;">江西11选5</a>
+                                        <a target="mainFrame" href="javascript:;">广东11选5</a>
+                                        <a target="mainFrame" href="javascript:;">上海11选5</a>
+                                        <a target="mainFrame" href="javascript:;">安徽11选5</a>
+                                        <a target="mainFrame" href="javascript:;">浙江11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">江苏11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">北京11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">甘肃11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">辽宁11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">福建11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">贵州11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">山西11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">河北11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">广西11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">内蒙古11选5<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">天津11选5<span class="icon-hzn icon-new"></span></a>
+                                    </div>
+                                </div>
+                                <div class="game-kind">
+                                    <div class="kind-left"><i class="icon3"></i>3D/P3</div>
+                                    <div class="kind-right">
+                                        <a target="mainFrame" href="javascript:;">福利3D</a>
+                                        <a target="mainFrame" href="javascript:;">体彩P3/5<span class="icon-hzn icon-hot"></span></a>
+                                        <a target="mainFrame" href="javascript:;">上海时时乐</a>
+                                    </div>
+                                </div>
+                                <div class="game-kind gray">
+                                    <div class="kind-left"><i class="icon4"></i>快三</div>
+                                    <div class="kind-right">
+                                        <a target="mainFrame" href="javascript:;">江苏快3</a>
+                                        <a target="mainFrame" href="javascript:;">安徽快3</a>
+                                        <a target="mainFrame" href="javascript:;">甘肃快3<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">广西快3<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">河北快3<span
+                                                    class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">福建快3<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">湖北快3<span class="icon-hzn icon-new"></span></a>
+                                        <a target="mainFrame" href="javascript:;">激情快3<span class="icon-hzn icon-zd"></span></a>
+                                        <a target="mainFrame" href="javascript:;">北京快3<span class="icon-hzn icon-new"></span></a>
+                                    </div>
+                                </div>
+                                <div class="game-kind">
+                                    <div class="kind-left"><i class="icon5"></i>PK10</div>
+                                    <div class="kind-right">
+                                        <a target="mainFrame" href="javascript:;">北京PK10<span class="icon-hzn icon-hot"></span></a>
+                                        <a target="mainFrame" href="javascript:;">幸运飞艇<span class="icon-hzn icon-hot"></span></a>
+                                        <a target="mainFrame" href="javascript:;">疯狂PK10<span class="icon-hzn icon-zd"></span></a>
+                                    </div>
+                                </div>
+                                <div class="game-kind gray">
+                                    <div class="kind-left"><i class="icon6"></i>超频彩</div>
+                                    <div class="kind-right">
+                                        <a target="mainFrame" href="javascript:;">极速60秒<span class="icon-hzn icon-zd"></span></a>
+                                        <a target="mainFrame" href="javascript:;">极速120秒<span class="icon-hzn icon-zd"></span></a>
+                                        <a target="mainFrame" href="javascript:;">极速180秒<span class="icon-hzn icon-zd"></span></a>
+                                        <a target="mainFrame" href="javascript:;">夺金60秒<span class="icon-hzn icon-zd"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="real-game" ><a target="mainFrame" href="javascript:;">真人娱乐<i></i></a>
+                            <div class="left-item">
+                                <div class="item-arr-up">
+                                    <img src="images/common_img/ups.png">
+                                </div>
+                                <div class="game-item game-item4">
+                                    <!-- <span class="new"></span> -->
+                                    <p class="game-bg game-bg1"></p>
+                                    <div class="item-left"></div>
+                                    <div class="item-right">
+                                        <p>AG游戏</p>
+                                        <span>真人娱乐现场，美女荷官</span>
+                                        <!-- <a target="mainFrame" href="javascript:;">进入游戏</a> -->
+                                        <a target="mainFrame" href="javascript:;">开通</a>
+                                        <a target="mainFrame" href="javascript:;">试玩</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="computer-game" ><a target="mainFrame" href="javascript:;">电子游戏<i></i></a>
+                            <div class="left-item">
+                                <div class="item-arr-up">
+                                    <img src="images/common_img/ups.png">
+                                </div>
+                                <div class="game-item game-item5">
+                                    <!-- <span class="new"></span> -->
+                                    <p class="game-bg game-bg2"></p>
+                                    <div class="item-left"></div>
+                                    <div class="item-right">
+                                        <p>AG捕鱼王</p>
+                                        <span>大鱼满屏，惊喜不断</span>
+                                        <a target="mainFrame" href="javascript:;">进入游戏</a>
+                                        <!-- <a target="mainFrame" href="javascript:;">开通</a> -->
+                                        <a target="mainFrame" href="javascript:;">试玩</a>
+                                    </div>
+                                </div>
+                                <div class="game-item game-item6" >
+                                    <!-- <span class="new"></span> -->
+                                    <p class="game-bg game-bg3"></p>
+                                    <div class="item-left"></div>
+                                    <div class="item-right" >
+                                        <p>PT老虎机</p>
+                                        <span>最劲爆的奖池现金大奖</span>
+                                        <!-- <a target="mainFrame" href="javascript:;">进入游戏</a> -->
+                                        <a target="mainFrame" href="javascript:;">开通</a>
+                                        <a target="mainFrame" href="javascript:;">试玩</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="table-game"><a target="mainFrame" href="javascript:;">桌面游戏<i></i></a>
+                            <div class="left-item">
+                                <div class="item-arr-up">
+                                    <img src="images/common_img/ups.png">
+                                </div>
+                                <div class="game-item game-item1">
+                                    <p class="game-bg game-bg4"></p>
+                                    <div class="item-left"></div>
+                                    <div class="item-right">
+                                        <p>骰宝</p>
+                                        <span>单期限赔20万&nbsp;&nbsp; 75秒/期</span>
+                                        <a target="mainFrame" href="javascript:;">去投注</a>
+                                    </div>
+                                </div>
+                                <div class="game-item game-item2">
+                                    <p class="game-bg game-bg5"></p>
+                                    <div class="item-left"></div>
+                                    <div class="item-right">
+                                        <p>龙虎斗</p>
+                                        <span>单期限赔20万&nbsp;&nbsp; 75秒/期</span>
+                                        <a target="mainFrame" href="javascript:;">去投注</a>
+                                    </div>
+                                </div>
+                                <div class="game-item game-item3">
+                                    <p class="game-bg game-bg6"></p>
+                                    <div class="item-left"></div>
+                                    <div class="item-right">
+                                        <p>百家乐</p>
+                                        <span>单期限赔20万&nbsp;&nbsp; 75秒/期</span>
+                                        <a target="mainFrame" href="javascript:;">去投注</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="real-game sport-game" ><a target="mainFrame" href="javascript:;">体育竞技<i></i></a>
+                            <div class="left-item">
+                                <div class="item-arr-up">
+                                    <img src="images/common_img/ups.png">
+                                </div>
+                                <div class="game-item game-item7">
+                                    <!-- <span class="new"></span> -->
+                                    <p class="game-bg game-bg1"></p>
+                                    <div class="item-left"></div>
+                                    <div class="item-right">
+                                        <p>巴沙体育</p>
+                                        <span>最精彩的体育竞技</span>
+                                        <a target="mainFrame" href="javascript:;">去投注</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+         </div>
+    </div>
+
+    <!--头部导航-->
+    <div class="nav-head">
+      <div class="container">
+        <div class="nav-in">
+         <a href="views/home.html" target="mainFrame"><img src="images/common_img/zd_logo.png" class="float-left"/></a>
+          <div class="nav-right">
+            <div class="game-record">
+              <span class="menu-item">
+                <a href="#"><i class="menu-icon menu-icon1"></i>游戏记录</a>
+                <ul class="menu-sub">
+                    <li class="menu-list"><span class="menu-arr"></span></li>
+                    <li class="menu-list2"><a href="views/userCenter/gameRecord/bettingRecord-lottery-gameRecord.html"  target="mainFrame">游戏记录</a></li>
+                    <li class="menu-list3"><a href="views/userCenter/gameRecord/bettingRecord-tableGame-singleGame.html"  target="mainFrame">追号记录</a></li>
+                </ul>
+              </span>
+              <span class="menu-item">
+                <a href="#"><i class="menu-icon menu-icon2"></i>资金明细</a>
+                <ul class="menu-sub">
+                    <li class="menu-list"><span class="menu-arr"></span></li>
+                    <li class="menu-list2"><a href="views/userCenter/financialDetails/financialDetails-accountChangeRecord.html" target="mainFrame">账变记录</a></li>
+                    <li class="menu-list3"><a href="views/userCenter/financialDetails/financialDetails-rechargeRecord.html" target="mainFrame">充值记录</a></li>
+                    <li class="menu-list4"><a href="views/userCenter/financialDetails/financialDetails-rechargeApplication.html" target="mainFrame">充值申请</a></li>
+                    <li class="menu-list5"><a href="views/userCenter/financialDetails/financialDetails-rechargeRecord.html" target="mainFrame">提现记录</a></li>
+                    <li class="menu-list6"><a href="views/userCenter/financialDetails/financialDetails-withdrawalApplication.html" target="mainFrame">提现申请</a></li>
+                    <li class="menu-list7"><a href="views/userCenter/financialDetails/financialDetails-transferRecord.html" target="mainFrame">转账记录</a></li>
+                </ul>
+              </span>
+              <span class="menu-item">
+                <a href="#"><i class="menu-icon menu-icon3"></i>代理中心</a>
+                <ul class="menu-sub">
+                    <li class="menu-list"><span class="menu-arr"></span></li>
+                    <li class="menu-list2"><a href="views/userCenter/agencyCenter/agency-teamCharge.html" target="mainFrame">团队充提</a></li>
+                    <li class="menu-list3"><a href="views/userCenter/agencyCenter/agency-Team_profit_loss-lottery.html" target="mainFrame">团队盈亏</a></li>
+                    <li class="menu-list4"><a href="views/userCenter/agencyCenter/agency-lotteryCommission.html" target="mainFrame">彩票佣金</a></li>
+                    <li class="menu-list5"><a href="views/userCenter/agencyCenter/agency-dailyReport.html" target="mainFrame">日奖报表</a></li>
+                    <li class="menu-list5"><a href="views/userCenter/agencyCenter/agency-dividend_report-lottery.html" target="mainFrame">分红报表</a></li>
+                    <li class="menu-list6"><a href="views/userCenter/agencyCenter/agency-Team_managemen.html" target="mainFrame">团队管理</a></li>
+                    <li class="menu-list7"><a href="views/userCenter/agencyCenter/agency-LowerAccountOpening-link.html" target="mainFrame">下级开户</a></li>
+                    <li class="menu-list7"><a href="views/userCenter/agencyCenter/agency-highQuota.html" target="mainFrame">高点配额</a></li>
+
+                 </ul>
+              </span>
+              <span class="menu-item">
+                <a href="#"><i class="menu-icon menu-icon4"></i>账户管理</a>
+                <ul class="menu-sub">
+                    <li class="menu-list"><span class="menu-arr"></span></li>
+                    <li class="menu-list2"><a href="views/userCenter/userManagement/mail.html" target="mainFrame">站内信(0)</a></li>
+                    <li class="menu-list3"><a href="views/userCenter/userManagement/platformBulletin.html" target="mainFrame">平台公告(0)</a></li>
+                    <li class="menu-list4"><a href="views/userCenter/userManagement/passwordManagement01.html" target="mainFrame">密码管理</a></li>
+                    <li class="menu-list5"><a href="views/userCenter/userManagement/safetyProblem01.html" target="mainFrame">安全问题</a></li>
+                    <li class="menu-list6"><a href="views/userCenter/userManagement/boundBank.html" target="mainFrame">银行卡管理</a></li>
+                    <li class="menu-list7"><a href="views/userCenter/userManagement/MyBonus.html" target="mainFrame">我的奖金</a></li><li class="menu-list6"><a href="views/userCenter/userManagement/passwordManagement01.html" target="mainFrame">个人资料</a></li>
+              </ul>
+              </span>
+              <span class="menu-item">
+                <a href="views/activity/activity-bet.html" target="mainFrame" class="color2"><i class="menu-icon menu-icon6"></i>优惠活动</a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+     </div>
+
+    <!-- 侧边栏 -->
+    <div class="in-side">
+        <div class="in-side-toogle"></div>
+        <ul class="side-list">
+            <li>
+                <a href="javascript:void(0);" class="side-icon on" id="voice-set">
+                    <span class="icon-side icon-side1"></span>
+                    <p>声音</p>
+                </a>
+            </li>
+            <li class="side-litem">
+                <a href="javascript:void(0);" class="side-icon">
+                    <span class="icon-side icon-side2"></span>
+                    <p>皮肤</p>
+                </a>
+                <div class="skin">
+                    <div class="skin-button">
+                        <button type="button" id="b1"></button>
+                        <button type="button" id="b2"></button>
+                        <button type="button" id="b3"></button>
+                        <button type="button" id="b4"></button>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <a target="_blank" href="javascript:;" class="side-icon">
+                    <span class="icon-side icon-side4"></span>
+                    <p>走势</p>
+                </a>
+            </li>
+            <li>
+                <a target="mainFrame" href="javascript:;" class="side-icon">
+                    <span class="icon-side icon-side5"></span>
+                    <p>撤单</p>
+                </a>
+            </li>
+            <li>
+                <a href="./views/indep/ios-download.html" target="_blank" class="side-icon  phone_tip">
+                    <span class="icon-side icon-side6"></span>
+                    <p>手机</p>
+                    <span class="phone_new"></span>
+                </a>
+            </li>
+            <li>
+                <a target="_blank" href="./views/indep/zhengdian-client.html" class="side-icon">
+                    <span class="icon-side icon-side7"></span>
+                    <p>PC</p>
+                </a>
+            </li>
+            <li class="server">
+                <a href="javascript:void(0);" onclick="javascript:openwindow();" class="side-icon">
+                    <span class="icon-side icon-side8"></span>
+                    <p>客服</p>
+                </a>
+                <div class="server-out">
+                    <div>
+                        <p>微信客服</p>
+                        <a href="javascript:;"><img src="images/common_img/wechat.jpg" alt=""></a>
+                        <span class="wechat-num">微信号 zhengdiangame</span>
+                        <i></i>
+                    </div>
+                    <div class="online-server">
+                        <p>在线客服</p>
+                        <a href="javascript:;" onclick="javascript:openwindow();">
+                            <div>
+                                <img src="images/common_img/online_ico.png" width="61" height="auto"
+                                     alt="">
+                                <span>点击咨询</span>
+                            </div>
+                        </a>
+                        <span>服务时间 10:00~02:00</span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="side-icon">
+                    <span class="icon-side icon-side3"></span>
+                    <p>反馈</p>
+                </a>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="side-icon rocket-top">
+                    <span class="icon-side icon-side9"></span>
+                    <p>顶部</p>
+                </a>
+            </li>
+        </ul>
+     </div>
+
+    <iframe id="mainIframe" name="mainFrame" src="views/home.html" allowtransparency="true" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"  width="100%"></iframe>
+
+
+    <!-- 声音设置 -->
+    <div class="voice-set-mask"></div>
+    <div class="voice-model">
+        <div class="voice">
+            <form action="" method="post">
+                <ul class="voice-set">
+                    <li>
+                        <p>
+                    <span class="voice-icon">
+                    </span>
+                            声音开关
+                        </p>
+                        <span class="voice-close">
+                  </span>
+                        <p>
+                        </p>
+                    </li>
+                    <li>
+                        开奖提示音
+                        <span class="voice-set-btn">
+                    <input type="checkbox" id="checkbox-lottery" class="checkbox">
+                    <label for="checkbox-lottery">
+                    </label>
+                  </span>
+                    </li>
+                    <li class="voice-tip">
+                        中奖提示音
+                        <span class="voice-set-btn">
+                    <input type="checkbox" id="checkbox-win" class="checkbox" checked="">
+                    <label for="checkbox-win">
+                    </label>
+                  </span>
+                    </li>
+                    <li>
+                        消息提示音
+                        <span class="voice-set-btn">
+                    <input type="checkbox" id="checkbox-mes" class="checkbox" checked="">
+                    <label for="checkbox-mes">
+                    </label>
+                  </span>
+                    </li>
+                </ul>
+            </form>
+        </div>
+    </div>
+
+    <!-- 底部 -->
+    <div class="footer">
+        <div class="container">
+            <div class="zdfooter">
+               <div class="footer-left">
+                    <img src="images/common_img/foor.jpg">
+               </div>
+               <div class="footer-center">
+                    <ul class="footer-list">
+                        <li>
+                          <p class="footer-item">
+                            <a href="views/indep/brand.html" target="mainFrame">正点品牌</a> /
+                            <a href="views/indep/help.html" target="mainFrame">帮助中心</a> /
+                            <a href="javascript:void(0);" onclick="openwindow();">联系我们</a> /
+                            <a href="views/indep/ios-download.html" target="_blank">手机客户端</a> /
+                            <a href="views/indep/zhengdian-client.html" target="_blank">PC客户端</a> /
+                            <a href="views/indep/quick-logon-download.html" target="_blank">快速登录器</a> /
+                            <a href="views/indep/repairdns.html" target="_blank">防劫持教程</a>
+                          </p>
+                        </li>
+                        <li class="rule">
+                          <p>© 2014 正点游戏版权所有<span>菲律宾政府合法博彩牌照认证</span></p>
+                        </li>
+                        <li class="rule">      正点游戏郑重提示：彩票有风险，投注需谨慎，不向未满18周岁的青少年出售彩票</li>
+                    </ul>
+               </div>
+               <div class="footer-right">
+                    <img src="images/common_img/erweima.png">
+                    <div class="weixin">
+                      <p>微信号：zhengdiangame</p>
+                      <img src="images/common_img/erweima.jpg">
+                      <p>微信扫一扫，精彩全知道</p>
+                    </div>
+               </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/layui/layui.all.js"></script>
+    <script src="js/index.js"></script>
+    <script>
+        $(document).on('click', '.layui-layer-btn0,.layui-layer-btn1', function() {
+            var shade = document.getElementsByClassName('layui-layer-shade')[0];
+            var lay = document.querySelector('.layui-layer.layui-layer-dialog');
+            document.querySelector('body').removeChild(lay);
+            document.querySelector('body').removeChild(shade);
+        });
+        $(document).on('click', '.layui-layer-ico.layui-layer-close.layui-layer-close1', function() {
+            var shade = document.getElementsByClassName('layui-layer-shade')[0];
+            try {
+                var lay = document.querySelector('.layui-layer');
+                document.querySelector('body').removeChild(lay);
+            } catch (e) {
+                var latText = document.querySelector('.layui-layer-title');
+                document.querySelector('body').removeChild(latText);
+            }
+            document.querySelector('body').removeChild(shade);
+        });
+        $('.hide').on('click',function(){
+            $('.top-balance-show').css('display',$('.top-balance-show').css('display')=='none'?'inline-block':'none');
+            $('.top-balance-hide').css('display',$('.top-balance-hide').css('display')=='none'?'inline-block':'none');
+        })
+
+    </script>
+</body>
+
+</html>

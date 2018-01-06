@@ -1,0 +1,56 @@
+
+/*侧边栏in-side*/
+#b1{background:#585568;}
+#b2{background:#222f38 url(../images/common_img/select.png);}
+#b3{background:#00b599;}
+#b4{background:#5d473a;}
+
+/*顶部top*/
+.header-nava a{background: #1a252b;}
+.header-nava a:hover{background:#50626c;transition:all .3s ease;}
+.header-nav-l .llgame a:hover {background-color: #213c4d;color: #fff;border-color: #213c4d;}
+.header-nav-l li>a{border-color: #344049;}
+.icon-id1{background-position-x: -2px;}
+.header-navrqa, .header-navrqmys, .hidenn{color: #fff;}
+.info_num{border-color:#383346;transition:all .3s ease;}
+
+
+/*头部 header*/
+.nav-bj{background:url(../images/common_img/bjtop2.jpg);background-size: 100% 105px;}
+.in-recordaul li:hover{background-color:#50626c;}
+
+/*首页home*/
+.header-body{background: url(../images/home_img/b2.jpg) center top no-repeat;background-size: 100% 585px;}
+.hot_type >a:hover,.games_type .game2-r a:hover{background-color: #50626c;border-color: #50626c;}
+
+
+/*内页皮肤*/
+input[type="submit"],input[type="button"] {
+    cursor: pointer;
+    background: #275673;
+}
+.x_day a:hover{background:#275673;}
+.tow_a{background:#275673;}
+.tow_a a.tow_on, .tow_a a:hover{color:#275673;}
+.submit,.x_con12l_p a,.bank_card_cxind2 a,.bank_card_xuen .bank_card_xuen1,.n_bank_card a,.bank_card_xyb,.n_10row_submit,.query_d2 .cxuan,.query_submit,.qssk_input,.qssk_input,.alipay_2 .alipay_submit,.recharge_sla,.xsd_xyb,.x_axl2_submit,.transfer_accounts_submit,.xl_tksx_submit,.personad_tj,.personad_tj,.management_a,.management_2 a,.bank_card_return{background:#275673;}
+.query_d1 a.query_d1on, .query_d1 a:hover,.ydu{background:#275673;border-color:#275673;}
+.very_d2 a.new_on, .very_d2 a:hover{border-top: 4px solid #275673;}
+
+.x_table thead th,.adjustment_tit{background:#dbe9f1;border-bottom:2px solid #8cb0c5;}
+.x_table .pay_report th{background:#dbe9f1;}
+.x_table tbody tr{background-color: #f7f7f7;}
+.x_table tbody tr:nth-of-type(odd){background: #fff;}
+.x_table tbody tr:hover{background:#dbe9f1;}
+.x_table tfoot td,.n_10row_mode,.fhtbody tr:nth-child(odd),.x_table2 tbody tr:nth-child(even) td,.x_xfx_ul li:nth-child(even){background:#dbe9f1;}
+.x_table tbody .x_hrtd:hover{background:#dbe9f1;}
+.x_underline{background:#84aac1;}
+.x_xfx_ul li:nth-child(even){background: #ebf6fc;}
+.x_xfx_ul li:hover{background: #d5e5ee;}
+.page a{background:#cfdbe2;border-color:transparent;}
+.page a.pageCurrent{    background: #658493;color: #fff;}
+.page a:hover{background:#426170;color:#fff}
+.bank_card-qp1 span { border-left-color: #222f38;}
+
+.deep_color{background-color: #222f38;border-color: #1d252b;}
+.light_color{background-color: #275673;border-color: #275673;}
+

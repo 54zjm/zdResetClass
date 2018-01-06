@@ -1,0 +1,1259 @@
+body, button, dd, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, input, label, legend, ol, p, select, table, td, textarea, th, div, ul, li, span, section, header, footer, nav, video, audio, figure, figcaption, hgroup, a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.security-keyboard:focus, .x_form_tinput:focus, .n_10in_l2 input:focus, .n_10row_fonts:focus, .n_10in_l3 input:focus, #textl:focus, #txiankc:focus,.input-focus:focus,#J-input-Amount:focus {
+    box-shadow: 0 0 3px #4A3E5C;
+    border-color: #4A3E5C;
+    transition: all 0.2s;
+}
+body{min-width:1250px;background-color:#fff;color:#333;font-size:14px;font-family:"microsoft yahei",Arial,sans-serif;line-height:1.42857143;}
+*{box-sizing:border-box;margin:0;padding:0;}
+a{outline:0;color:#333;text-decoration:none;}
+li,ul{list-style:none;}
+img{border:none;vertical-align:middle;}
+h1,h2,h3,h4,h5,h6{color:inherit;font-weight:500;line-height:1.1;}
+dt{font-weight:700;}
+@font-face{font-family:agency fb;src:url(../font/AGENCYB.TTF),url(../font/AGENCYB.eot);}
+.blod{font-weight:700;}
+.float-left{float:left;}
+.float-right{float:right;}
+
+.theme-popover-f{position:fixed;top:0;z-index:5;display:none;width:100%;height:100%;}
+.theme-popover-mask{position:fixed;top:0;left:0;z-index:5;display:none;width:100%;height:100%;background:#000;opacity:.4;filter:alpha(opacity=40);}
+.sy{position:absolute;top:40%;left:42.8%;z-index:1050;z-index:5;overflow:hidden;width:295px;border-radius:8px;line-height:45px;}
+.syl li{position:relative;padding-right:15px;padding-left:25px;height:45px;background:#fff;}
+.syl p{margin:0;font-weight:700;font-size:14px;}
+.iconsy{position:relative;top:2px;display:inline-block;margin-right:3px;width:18px;height:14px;background:url(../images/img/kg.png) no-repeat;}
+.syl li:nth-last-child(even){background:#f5f5f5;}
+.syl li .con{position:absolute;top:10px;right:0;line-height:0;}
+.iconsyx{position:absolute;top:18px;right:15px;display:inline-block;width:11px;height:11px;background:url(../images/img/kg.png) no-repeat;background-position:-24px -1px;cursor:pointer;}
+.tisy{border-top:1px solid #e8e8e8;border-bottom:1px solid #e8e8e8;}
+
+.icon{display:inline-block;vertical-align:middle;}
+
+.mian{position: absolute;top: 50%;left: 50%;width:1030px;margin-left: -505px;margin-top: -239px;}
+/*#cds{width:100%;position:absolute;top:0;}*/
+/*/*新添加版本的css*!.main-nav{width:70px;float:left;}*/
+.posiwtim{width:100%;text-align:center;float:left;}
+.time{cursor:pointer;border: #c8c8c8 solid 1px;background:#fff url(../images/img/h_img1.png) no-repeat center right 5px;height:30px;line-height:30px;padding:5px;color:#4f473c;font-size:12px;}
+#mian_body{background: #eef2f2;}
+.row:after,.row:before{display:table;content:" ";box-sizing:border-box;clear: both;}
+
+/*提现页面*/
+.recharge-con {
+    padding: 20px 20px 80px 20px;
+    background: #F5F5F5;
+}
+/*提款申请文字*/
+.apply-title h1 {
+    margin-bottom: 5px;
+    color: #262732;
+    font-size: 20px;
+}
+.apply-title p {
+    font-size: 14px;
+    color: #808080;
+}
+.transfer-form {
+    width: 100%;
+    padding: 0 18px;
+    background: white;
+    color: #3E3E3E;
+    margin-top: 20px;
+    font-size: 13px;
+    border: 1px solid gainsboro;
+}
+.x_axlul {
+    height: 48px;
+    background: #FFFDE8;
+    border: 1px solid #A7A7A7;
+    line-height: 48px;
+    display: inline-block;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+.icon-info {
+    width: 15px;
+    height: 15px;
+    margin: 0 3px 0 5px;
+}
+.recharge-count-down {
+    color:#ff0100;
+}
+/*用户名*/
+li.user-balance {
+    margin-bottom: 28px;
+}
+li.user-balance:first-child{
+    margin-top:20px;
+}
+li.user-balance:last-child{
+    margin-bottom:20px;
+}
+.total-account-num{
+    color:#f60;
+    font-size:20px;
+}
+.security-keyboard{
+    line-height: 31px;
+    width:170px;
+    border:1px solid #c6c6c6;
+    height:31px;
+    border-radius:3px;
+    padding-left:5px;
+    font-size:13px;
+}
+#J-input-password {
+    width: 224px;
+}
+.input-focus {
+    height: 28px;
+    width: 225px;
+    padding-left: 5px;
+    border: 1px solid #c6c6c6;
+    border-radius: 3px;
+}
+
+
+
+/*安全验证*/
+.safety-certificate {
+    display: inline-block;
+}
+.certificate-select {
+    height: 30px;
+    line-height: 30px;
+    width: 150px;
+    display: inline-block;
+    font-size: 12px;
+    border: #c8c8c8 solid 1px;
+    font-size: 12px;
+    color: #4f473c;
+}
+.certificate-select span {
+    padding: 0 5px;
+}
+.select-list-hide {
+    width: 100%;
+    border: 1px solid #c8c8c8;
+    top: 28px;
+    background: #fff;
+    padding: 0 5px;
+    max-height: 156px;
+    overflow-y: auto;
+    overflow-x: hidden;
+
+}
+.select-list-hide {
+    display: none;
+    position: absolute;
+    cursor: pointer;
+    z-index: 1;
+}
+.select-list-hide li {
+    background: #fff;
+    width: 100%;
+    border-bottom: 1px solid #c8c8c8;
+    padding: 0 5px;
+}
+.bank-cart-about {
+    display: flex;
+    align-items: center;
+}
+
+.total-accountsp {
+    display: inline-block;
+    margin-right: 5px;
+    width: 95px;
+    text-align: right;
+}
+
+
+/*提现金额*/
+#textl {
+    width: 238px;
+    height: 31px;
+    text-align: center;
+    line-height: 31px;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    border: 1px solid #c6c6c6;
+    border-radius: 3px;
+}
+.Withdrawals-cart-title {
+    margin: 12px;
+    font-size: 12px;
+}
+/*银行卡*/
+.cart-list-box {
+    width: 297px;
+    height: 130px;
+    background: #DC1820;
+    border-radius:5px;
+    color:#fff;
+    overflow: hidden;
+    margin-left:12px;
+}
+.bank-cart-mes {
+    display: flex;
+    margin:5px 0 0 5px;
+}
+/*图标*/
+.W_ICBC .bank-cart-logo {
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.bank-cart-logo {
+    width: 52px;
+    height: 52px;
+    margin-right: 5px;
+}
+/*文字*/
+.withdrawals-bank-name {
+    display: flex;
+    align-items: center;
+}
+.withdrawals-bank-name .withdrawals-to-bank {
+    font-size: 16px;
+}
+.withdrawals-bank-name .withdrawals-cart-type {
+    font-size: 12px;
+}
+/*卡号*/
+.withdrawals-cart-num {
+    margin-top:10px;
+}
+.withdrawals-cart-in .withdrawals-cart-text {
+    background: rgba(0,0,0,0.2);
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 0;
+    text-align: center;
+}
+/*下一步按钮*/
+.to-next-step.cart-list-box{
+    background-color:transparent;
+    height: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+.next-step-btn {
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 3px;
+    background: #5b516b;
+    color: #fff;
+    display: inline-block;
+    border:0;
+}
+
+/*额度转换*/
+.transfer-form {
+    background-color: #fff;
+}
+.transfer-form.ag-transfer-form .total-account {
+    height: 76px;
+    border-bottom: 1px solid #eaeaea;
+}
+.transfer-form.ag-transfer-form .total-account p {
+    line-height:76px;
+}
+.transfer-form-in {
+    width: 100%;
+    display: flex;
+}
+.transfer-form-in .transfer-form-left {
+    width: 51%;
+    padding:45px 0;
+    border-right:1px solid  #e6e6e6;
+}
+.transfer-form-in .transfer-form-right {
+    width: 49%;
+}
+.transfer-form.ag-transfer-form {
+    padding: 0;
+}
+.transfer-form-in .transfer-form-left div {
+    width: 482px;
+    height: 53px;
+    padding-left: 20px;
+    line-height: 51px;
+    border: 1px solid #e6e6e6;
+    background-color: #f9f9f9;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    margin:0 auto 14px;
+}
+.transfer-form-in .transfer-form-left div:last-child{
+    margin:0 auto;
+}
+.transfer-form-in .transfer-form-left p {
+    color: #ff6600;
+    font-size: 20px;
+    margin-right: 5px;
+}
+.transfer-form-in .transfer-form-left .transfer-item {
+    flex:1;
+}
+/*主账户*/
+.j-div-10-box-first {
+    margin-right:180px;
+}
+.j-div-10-box {
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+}
+/*AG*/
+.transfer-form-left >div >span >a {
+    display: inline-block;
+    border-radius: 12px;
+    text-align: center;
+    width: 72px;
+    height: 23px;
+    line-height: 21px;
+    border: 1px solid #275673;
+    color: #275673;
+    font-size: 12px;
+    margin-right:10px;
+}
+.transfer-form-left >div >span >a.try-play {
+    width: 50px;
+}
+.transfer-form-left >div >span >a.dredge {
+    width: 50px;
+    margin-left: 22px;
+}
+
+/* transfer-form-right */
+.transfer-form-right .tit {
+    line-height: 50px;
+    margin-top: 13px;
+    padding-left: 83px;
+    font-size: 18px;
+    color: #414141;
+}
+.transfer-form-right .list {
+    width: 546px;
+    height: 46px;
+    line-height: 44px;
+    vertical-align: middle;
+    border-bottom: 0;
+}
+.transfer-form-right .list label,.transfer-form-right .list .total-account-title {
+    display: inline-block;
+    width: 138px;
+    text-align: right;
+    margin-right: 10px;
+}
+.transfer-form-right select {
+    width: 275px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #c8c8c8;
+    color: #4f473c;
+    font-size: 12px;
+    padding-left: 5px;
+    background: -moz-linear-gradient(top, #fefefe 0%, #f5f5f5 100%);
+    background: -webkit-linear-gradient(top, #fefefe 0%, #f5f5f5 100%);
+    background: -o-linear-gradient(top, #fefefe 0%, #f5f5f5 100%);
+    background: -ms-linear-gradient(top, #fefefe 0%, #f5f5f5 100%);
+    background: linear-gradient(top, #fefefe 0%, #f5f5f5 100%);
+}
+.transfer-form-right .list input.transfer-form-right-list-input,.security-keyboard2 {
+    width: 275px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #c8c8c8;
+    padding-left: 5px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+.transfer-form-right .confirm {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.transfer-form-right .list button {
+    width: 275px;
+    height: 37px;
+    line-height: 37px;
+    text-align: center;
+    background-color: #275673;
+    border-radius: 5px;
+    color: #fff;
+}
+
+/*转账记录*/
+.transfer-form-rightecord {
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.transfer-form-rightecord .tit {
+    padding: 0 20px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    border-bottom: 1px solid #e0e0e0;
+}
+.transfer-form-rightecord table,.transfer-form-rightecord table tr {
+    width: 100%;
+}
+.transfer-form-rightecord table tbody tr{
+    text-align: center;
+}
+.transfer-form-rightecord thead {
+    width: 100%;
+    height: 38px;
+    line-height: 38px;
+    border-top: 1px solid #e0e0e0;
+    color: #616161;
+    background-color: #f5f5f5;
+}
+.transfer-form-rightecord .t1 {
+    width: 133px;
+    padding-left: 20px;
+}
+.transfer-form-rightecord .t2 {
+    width: 301px;
+}
+.transfer-form-rightecord .t3 {
+    width: 193px;
+}
+.transfer-form-rightecord .t4 {
+    width: 120px;
+}
+.transfer-form-rightecord .t4_c {
+    color: #F76401;
+}
+.transfer-form-rightecord .t5 {
+    width: 310px;
+}
+.transfer-form-rightecord thead th {
+    font-weight: normal;
+}
+thead .rightecord-status {
+    width: 38px;
+}
+
+.key-logo {
+    display: inline-block;
+    width: 24px;
+    height: 16px;
+    position: relative;
+    top: 4px;
+    left: 2px;
+    cursor: pointer;
+}
+.rightecord-status {
+    width: 10px;
+    height: 100%;
+    display: inline-block;
+}
+.rightecord-progress {
+    width: 310px;
+    display: inline-block;
+}
+.rightecord-progress div {
+    display: inline-block;
+    width: 100px;
+    height: 68px;
+    position: relative;
+    text-align: center;
+}
+.rightecord-progress .cur p {
+    background-color: #275673;
+    height: 3px;
+    position: absolute;
+    left: 60px;
+    top: 23px;
+}
+.rightecord-progress .status-item1 p {
+    width: 60px;
+}
+.rightecord-progress .status-item2 p {
+    width: 90px;
+    left: 7px;
+}
+.rightecord-progress .status-item3 p {
+    width: 60px;
+    left: -10px;
+}
+.rightecord-progress .cur div {
+    color: #275673;
+}
+.rightecord-progress div div {
+    font-size: 12px;
+    color: #575757;
+    margin-top: 40px;
+    height: 12px;
+    line-height: 12px;
+}
+.rightecord-progress .cur span {
+    background-color: #275673;
+}
+.rightecord-progress div span {
+    width: 21px;
+    height: 21px;
+    line-height: 21px;
+    font-size: 13px;
+    position: absolute;
+    left: 40px;
+    top: 14px;
+    border-radius: 50%;
+    background-color: #ccc;
+    color: #fff;
+    text-align: center;
+}
+
+
+
+/*确认提现页面*/
+.nextStep-in {
+    color: gray;
+    padding: 30px 0;
+    margin-bottom:70px;
+}
+.nextStep-in li {
+    margin-bottom: 24px;
+}
+
+.nextStep-in li p{
+    width: 520px;
+    display: inline-block;
+    text-align: right;
+    margin-right: 5px;
+}
+.nextStep-in li .security {
+    display: inline-block;
+}
+.nextStep-in li .security div{
+    display: inline-block;
+}
+.nextStep-in li #J-input-question,.nextStep-in li #txiankc {
+    margin-right: 10px;
+    height: 28px;
+    width: 225px;
+    padding-left: 5px;
+    border: 1px solid #C1BBC7;
+    border-radius: 3px;
+}
+.nextStep-in li .next-submit {
+    text-align: center;
+    color: #fff;
+    display: block;
+    margin-left: 520px;
+    height: 30px;
+    line-height: 30px;
+    width: 120px;
+    border-radius: 4px;
+}
+
+/*支付页面*/
+.quick-pay {
+    background: #f8f4f0;
+}
+.quick-pay .main-content-img-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 176px;
+}
+.quick-pay .qp-tips-text-1 {
+    margin-top: 27px;
+    text-align: center;
+    color: #5e5e5e;
+    font-size: 24px;
+}
+.quick-pay .qp-tips-text-2 {
+    text-align: center;
+    margin-top: 14px;
+}
+.quick-pay .qp-tips-text-3 {
+    text-align: center;
+    color: #ff0000;
+    font-size: 14px;
+    margin-top: 34px;
+}
+.pay-line {
+    display: flex;
+    justify-content: center;
+}
+.quick-pay .pay-line a {
+    float: left;
+    padding: 10px 33px;
+    background: rgb(254,254,254);
+    background: -moz-linear-gradient(top,rgba(254,254,254,1) 0%,rgba(232,232,232,1) 100%);
+    background: -webkit-linear-gradient(top,rgba(254,254,254,1) 0%,rgba(232,232,232,1) 100%);
+    background: linear-gradient(to bottom,rgba(254,254,254,1) 0%,rgba(232,232,232,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe',endColorstr='#e8e8e8',GradientType=0 );
+    border: 1px solid #dcdcdc;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    margin:38px 5px 0 5px;
+}
+.quick-pay .return-bt-box {
+    display: flex;
+    justify-content: center;
+}
+
+.quick-pay .return-bt {
+    display: inline-block;
+    background: #71828b;
+    padding: 10px 44px;
+    color: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    margin-top: 73px;
+    margin-bottom: 73px;
+}
+
+
+/*充值页面*/
+.main {
+    width: 1250px;
+    margin:0 auto;
+    padding:20px 0;
+    overflow:hidden;
+    display: flex;
+}
+/*设置导航*/
+.main-nav {
+    width: 70px;
+    height: 400px;
+}
+/*充值类型*/
+.main-content {
+    width: 1180px;
+    background-color: #fff;
+}
+/*当前停留的位置*/
+.main-content  .content-nav-text {
+    height: 60px;
+    padding-left: 20px;
+    line-height:60px;
+}
+#mian_body .main-content .recharge-main .recharge-nav.recharge {
+    height:100%;
+}
+#mian_body .main-content .recharge-main .recharge-nav.recharge a {
+    display: flex;
+}
+/*选择支付方式*/
+.main-content .recharge-nav {
+    padding-left:20px;
+    display: flex;
+    flex-wrap:wrap;
+    background-color: #f7f7f7;
+}
+.main-content .recharge-nav a {
+    display: flex;
+    align-items: center;
+    padding:13px 30px;
+}
+/*小图标*/
+.icon-recharge{
+    width: 25px;
+    height: 25px;
+    margin-right:5px;
+}
+.icon-recharge-bankcard {
+    background-position: 0 -31px;
+}
+.icon-recharge-quick {
+    background-position: 0 -58px;
+}
+.icon-recharge-wechat {
+    background-position: 0 -119px;
+}
+.icon-recharge-tencent {
+    background-position: 0 0;
+}
+.icon-recharge-alipay {
+    background-position: 0 -85px;
+}
+/*选择银行*/
+.main-content .recharge-body {
+
+}
+.recharge-reminder {
+    padding:15px 20px;
+    background-color: #ffffe1;
+    border-bottom: 1px solid #eeeeee;
+}
+/*选择银行区域*/
+.recharge-bank {
+    padding:20px 68px 100px 68px ;
+}
+.select-bank-title {
+    display: flex;
+}
+/*选择充值银行*/
+.select-bank {
+    margin-top: 10px;
+}
+/*银行块box*/
+.select-banks {
+    width: 90%;
+    display: inline-block;
+}
+.select-banks-in {
+    display: flex;
+    flex-wrap:wrap;
+    margin-left: 10px;
+}
+.select-banks-in li {
+    width: 176px;
+    height: 44px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid #E4E4E4;
+    position: relative;
+}
+/*银行图标*/
+.select-banks-icon {
+    width: 126px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+.select-banks-icon .input11 {
+    visibility: hidden;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.select-banks-icon .input11+label {
+    position: absolute;
+    border-radius: 3px;
+    display: inline-block;
+    vertical-align: top;
+    width: 102%;
+    height: 108%;
+    transition: background 0.5s linear;
+    box-sizing: border-box;
+    -webkit-transition: background 0.3s linear;
+    -webkit-box-sizing: border-box;
+    cursor: pointer;
+    top: -1px;
+}
+.selected-bank-item label{
+    border: 2px solid #5b516b;
+}
+
+.DDBICBC {
+    background-position: 5px -537px;
+}
+.DDBABC {
+    background-position: 1px 4px;
+}
+.DDBCCB {
+    background-position: 4px -142px;
+}
+.DDBCMB {
+    background-position: 13px -248px;
+}
+.DDBBOC {
+    background-position: 14px -70px;
+}
+.DDBBCOM {
+    background-position: 16px -322px;
+}
+.DDBPSBC {
+    background-position: 2px -753px;
+}
+.DDBSPDB {
+    background-position: 20px -898px;
+}
+.DDBCMBC {
+    background-position: 5px -287px;
+}
+.DDBCEBB {
+    background-position: 2px -178px;
+}
+.DDBECITIC {
+    background-position: 9px -214px;
+}
+.DDBSPABANK {
+    background-position: 12px -863px;
+}
+.DDBHXB {
+    background-position: 14px -467px;
+}
+.DDBBOB {
+    background-position: 0 -35px
+}
+.DDBSHB {
+    background-position: 15px -826px;
+}
+.DDBNBB {
+    background-position: 16px -683px;
+}
+.DDBCIB {
+    background-position: 7px -1041px;
+}
+.THHBBRCB {
+    background-position: 0 -1167px;
+}
+.THHBSRCB {
+    background-position: 0 -1127px;
+}
+.Development {
+    background-position: 0 -430px;
+}
+/*支付宝支付*/
+.Alipay {
+    /*width: 100%;*/
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    width: 98px;
+    height: 34px;
+    margin-top:3px;
+}
+.bank-text-box {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: #d50000;
+    color: #fff;
+    font-size: 12px;
+    line-height: 12px;
+    padding: 3px 5px;
+    border-top-left-radius: 10px;
+}
+/*微信支付2*/
+.WeChat-bank {
+    width: 100px;
+    height: 36px;
+    margin-top: 1px;
+}
+/*充值金额*/
+.select-bank-title.recharge-amount {
+    display:block;
+    margin-top: 15px;
+}
+.select-bank-text2 {
+    margin-left: 28px;
+    margin-right:7px;
+}
+.select-banks2 {
+    display: inline-block;
+}
+.select-banks2 input[name="amount"] {
+    width: 100px;
+    height: 30px;
+    border: #c8c8c8 solid 1px;
+    border-radius: 3px;
+    color: #4f473c;
+    margin-right: 10px;
+    padding-left:10px;
+}
+/*充值限制提示*/
+.recharge-tip {
+    color: #999;
+    font-size: 12px;
+    width: 100%;
+    line-height: 1.6;
+    margin-top: 15px;
+    margin-left:108px;
+    display: flex;
+}
+.icon-recharge-tip {
+    width: 8px;
+    height: 13px;
+    display: inline-block;
+    margin-left: 14px;
+}
+.recharge-tip-text {
+    margin-left:5px;
+}
+/*充值按钮*/
+.recharge-now-btn {
+    border:0;
+    width: 100px;
+    border-radius: 3px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    background: #5b516b;
+    margin-left:108px;
+    margin-top:10px;
+}
+/*选择通道*/
+.recharge-way {
+    width: 100%;
+    border-bottom:1px solid #E4E4E4;
+}
+.aisle-item {
+    display: inline-block;
+    padding:15px;
+    margin-right:5px;
+}
+.aisle-item:first-child{
+    margin-left:20px;
+}
+.aisle-item:hover {
+    border-bottom:2px solid #275673;
+}
+.aisle-item.new_on {
+    border-bottom:2px solid #275673;
+}
+.aisle-item a {
+    display: flex;
+}
+
+/*虚拟键盘*/
+#globe-keyboard {
+    margin: 0;
+    padding: 5px;
+    list-style: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    background: #E5E6ED;
+    position: absolute;
+    border-radius: 5px 5px;
+    box-shadow: #747578 3px 3px 10px;
+    z-index: 300;
+}
+#globe-keyboard li {
+    float: left;
+    margin: 0 2px 2px 0;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    background: #fff;
+    border: 1px solid #f9f9f9;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+#globe-keyboard li .on {
+    display: none;
+}
+#globe-keyboard .row-2, .row-3, .row-4 {
+    clear: left;
+}
+#globe-keyboard .capslock {
+    width: 73px;
+}
+#globe-keyboard .right-shift {
+    width: 45px;
+}
+#globe-keyboard .delete {
+    width: 53px;
+}
+#globe-keyboard .space {
+    clear: left;
+    width: 276px;
+}
+#globe-keyboard .cancel {
+    width: 45px;
+}
+#globe-keyboard .submit {
+    color: #000;
+    width: 45px;
+}
+#globe-keyboard li:hover {
+    position: relative;
+    top: 1px;
+    left: 1px;
+    border-color: #e5e5e5;
+    cursor: pointer;
+    background-color: #D9FFED;
+}
+.main-content-box {
+    width: 100%;
+}
+
+/** 输入框上方放大提示 **/
+.j-ui-tip-input-floattip {
+    border: 1px solid #cfcfcf;
+    background-color: #fff;
+    padding: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.j-ui-tip-input-floattip>.ui-tip-text {
+    font-size: 18px;
+    color: #f86400;
+    font-weight: bold;
+}
+/*tip样式修复*/
+.j-ui-tip{border:1px solid #cfcfcf;background-color:#fff;padding:5px;-webkit-border-radius:5px;-moz-border-radius:5px;-o-border-radius:5px;-ms-border-radius:5px;border-radius:5px;margin-top: 5px;}
+.ui-tip-text{display: inline-block;position: relative;max-width: 275px;}
+.ui-tip-text:after{
+    content:'';
+    display:block;
+    width:0;
+    height:0;
+    border-left:7px solid transparent;
+    border-right:7px solid transparent;
+    border-top:7px solid #ffffe7;
+    position:absolute;
+    margin-top:5px;
+    left: 50%;
+    -webkit-transform:translateX(-50%);
+    -moz-transform:translateX(-50%);
+    -o-transform:translateX(-50%);
+    -ms-transform:translateX(-50%);
+    transform:translateX(-50%);
+}
+/*.c9_a2{-webkit-border-radius:5px;-moz-border-radius:5px;-o-border-radius:5px;-ms-border-radius:5px;border-radius:5px;padding:6px;-webkit-transition:all 0.3s ease-out 0s;-moz-transition:all 0.3s ease-out 0s;-o-transition:all 0.3s ease-out 0s;-ms-transition:all 0.3s ease-out 0s;transition:all 0.3s ease-out 0s;}*/
+
+.cart-list.cart-list-con {
+    position: relative;
+}
+.bank-cart-shadow {
+    width: 312px;
+    height: 150px;
+    position: absolute;
+    top: -7px;
+    left: 4px;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    background-position: 1px -2px;
+    display: none;
+}
+.nextStep-form li p{
+    width: 468px;
+}
+.transfer-accounts-color {
+    font-size: 20px;
+    color: #f90;
+    font-style: normal;
+}
+.accounts-hint {
+    font-size: 12px;
+    color: #999;
+}
+.accounts-text {
+    font-size: 12px;
+    margin-right: 10px;
+    width: 250px;
+    border: 1px solid #c8c8c8;
+    border-radius: 3px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    color: #4f473c;
+}
+.accounts-text-one{
+    font-size: 12px;
+    margin-right: 10px;
+    width: 100px;
+    border: 1px solid #c8c8c8;
+    border-radius: 3px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    color: #4f473c;
+}
+
+.accounts_n2 {
+    /*width: 702px;*/
+    display: inline-block;
+}
+.transfer_accounts_xl .certificate-select {
+    width: 320px;
+    margin-right: 10px;
+}
+.certificate-select span {
+    padding: 0 5px;
+}
+.certificate-select .select-list-hide {
+    max-height: 156px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background: #fff;
+}
+.certificate-select .select-list-hide li {
+    background: #fff;
+    width: 100%;
+    border-bottom: 1px solid #c8c8c8;
+    padding: 0 5px;
+}
+.transfer_accounts_n .accounts-hint {
+    font-size: 12px;
+    color: #999;
+}
+.nextStep-three {
+    margin:20px 0 80px 0;
+}
+.nextStep-form .select-list-hide li {
+    margin-bottom: 0;
+}
+/*转账*/
+.recharge-content {
+    background: #F5F5F5;
+    padding: 30px 50px;
+}
+.recharge-content-tip {
+    background: #ffffe1;
+    border: 1px solid #eeeeee;
+    color: #555;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+.icon-hint {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    top: -2px;
+    margin-right: 5px;
+}
+.recharge-content-tip {
+    background: #ffffe1;
+    border: 1px solid #eeeeee;
+    color: #555;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+#je, .recharge-count-down {
+    color: #ff0100;
+}
+.netbank-transfer-confirm .return-back {
+    font-size: 14px;
+    background-size: 100% 100%;
+    width: 130px;
+}
+.return-back {
+    width: 118px;
+    height: 36px;
+    margin: 13px 0;
+    text-indent: 31px;
+    line-height: 36px;
+    color: #4A4A4A;
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 15px;
+}
+.recharge-message {
+    float: left;
+    position: relative;
+    width: 100%;
+    display: block;
+}
+.recharge-message-in {
+    float: left;
+    width: 100%;
+    padding: 0 35px;
+    background-color: #fff;
+}
+.recharge-message-list {
+    border-bottom: 1px solid #ececec;
+    float: left;
+    width: 100%;
+    padding: 18px 0;
+    display: flex;
+    align-items: center;
+}
+.message-text {
+    color: #ff0100;
+    margin: 0 2px;
+}
+.recharge-message-name {
+    float: left;
+    width: 185px;
+    text-align: right;
+}
+.recharge-message-value {
+    float: left;
+    width: 176px;
+}
+.value-text {
+    color: #545454;
+    padding-left: 5px;
+    line-height: 1.5;
+}
+.to-copy {
+    float: left;
+}
+.to-copy .copy-btn {
+    border: 1px solid #a6a6a6;
+    color: #000;
+    background: #efefef;
+    padding: 3px 12px;
+}
+.confirm-account-prompt {
+    margin-left: 10px;
+    color: #9B9B9B;
+    font-size: 12px;
+}
+.warning-hint {
+    color: #f96003;
+    margin-left: 15px;
+}
+h4.transfer-order-num {
+    color: #ff0100;
+}
+.postscript-hint {
+    color: #989896;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.recharge-message-valuev2 {
+    width: auto;
+    margin-right: 15px;
+}
+.recharge-message-valuev2 a {
+    color: #30877F;
+    font-size: 12px;
+}
+.received-hint {
+    color: #30877F;
+}
+.to-recharge {
+    text-align: center;
+    width: 150px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 3px;
+    display: block;
+    color: #fff;
+    margin-left: 280px;
+}
+.recharge-explain {
+    background: #feffef;
+    float: left;
+    width: 100%;
+    padding: 35px;
+    margin: 35px 0 20px;
+    border: 1px solid #eee;
+}
+.recharge-explain-in {
+    color: #555;
+}
+.recharge-explain-in li {
+    margin-bottom: 15px;
+}
